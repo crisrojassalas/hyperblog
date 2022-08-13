@@ -16,6 +16,7 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+    border-radius: 10%;
 }
 
 #cabecera #tagline
@@ -32,6 +33,7 @@ body
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    border-radius: 25%;
 }
 
 #container h1
